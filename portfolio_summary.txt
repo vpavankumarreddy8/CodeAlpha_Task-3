@@ -1,0 +1,7 @@
+Portfolio Summary:
+AAPL: 180 shares x $180 = $32400
+TSLA: 250 shares x $250 = $62500
+GOOGL: 140 shares x $140 = $19600
+MSFT: 330 shares x $330 = $108900
+
+Total Investment: $223400
